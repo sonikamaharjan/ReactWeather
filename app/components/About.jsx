@@ -13,8 +13,8 @@ var About= ()=> {
             </p>
             <ul>
                 <li>
-                    <a href="https://facebook.github.io/react">React</a>we
-                     - This was theJavaScript framework used.
+                    <a href="https://facebook.github.io/react">React</a>
+                     - This was the JavaScript framework used.
                 </li>
                 <li>
                     <a href="https://openweathermap.org">Open Weather Map</a>

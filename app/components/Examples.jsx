@@ -8,7 +8,7 @@ var Examples=()=>{
             <p>Here are a few example locations to try out</p>
             <ol>
                 <li>
-                    <link to="/?location=Kathmandu">Kathmandu, Nepal</link>
+                    <Link to="/?location=Kathmandu">Kathmandu, Nepal</Link>
                 </li>
                 <li>
                     <Link to="/?location=Rio">Rio, Brazil</Link>

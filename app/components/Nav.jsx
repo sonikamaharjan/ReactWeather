@@ -1,12 +1,12 @@
 var React=require('react');
 var {Link, IndexLink}=require('react-router');
 
-var Nav= () => {
+var Nav= React.createClass({
 
     onSearch: function(e){
         e.preventDefault();
         alert('not yet wired up');
-    }
+    },
 
     render:function(){
         return(
@@ -40,6 +40,6 @@ var Nav= () => {
             </div>
         );
     }
-}
+})
 
 module.exports=Nav;
